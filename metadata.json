@@ -1,0 +1,6 @@
+{
+  "name": "NOTE BUILDER BY HK",
+  "description": "Publish and host custom HTML web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
